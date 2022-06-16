@@ -1,0 +1,72 @@
+.container{
+    /* background-image: url(sand.jpg); */
+    height: 600px;
+    width: auto;
+    border: solid rgb(233, 189, 47) 2px;
+    background-color: rgb(104, 66, 6);
+}
+header{
+    font-style: oblique;
+    font-size: 60px;
+    color: aquamarine;
+}
+
+nav{
+    height: 40px;
+    border: solid rgb(104, 66, 6);
+    /* margin: 2px; */
+    padding-top: 20px;
+    /* background-color: rgba(51, 94, 17, 0.877); */
+}
+
+nav li{
+    display: inline;
+    font-size: 20px;
+    font-style: italic;
+    color: #e9e4de;
+    padding: 10px;
+    background-color: rgba(42, 179, 243, 0.651);
+    height: 30px;
+    width: 70px;
+    border: solid;
+    border-radius: 20px;
+    margin: 3px 15px 40px 15px;
+
+
+}
+.main{
+    display: flex;
+    height: 300px;
+    border: solid ;
+}
+#box1{
+    width: 300px;
+    border: solid rgb(165, 213, 221) 2px;
+    padding: 5px;
+    font-style: oblique;
+    background-color: rgb(132, 217, 243);
+    border-radius: 10px;
+}
+#abc{
+    border: solid;
+    
+}
+#box2{
+    width: 300px;
+    border: 0px;
+    
+}
+#box3{
+    width: 250px;
+    border: solid;
+}
+#box4{
+    width: 250px;
+    border: solid;
+}
+#box5{
+    width: 250px;
+    border: solid;
+}
+
+ 
